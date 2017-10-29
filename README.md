@@ -6,7 +6,7 @@ Download datasets COCO, PASCAL, PET for object detection
 
 Changed passwd 
 
-## version 0.1
+## version 0.0
 start
 
 Install some packages: ssh, etc.
